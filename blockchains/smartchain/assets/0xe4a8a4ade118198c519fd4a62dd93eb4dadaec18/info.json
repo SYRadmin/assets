@@ -1,0 +1,11 @@
+{
+  "name": "SYRIAN TOKEN",
+  "symbol": "SYR",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "SYRIAN TOKEN is a symbolic cryptocurrency representing the Syrian lira in a decentralized way on the BNB Smart Chain.",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0xe4a8a4ade118198c519fd4a62dd93eb4dadaec18",
+  "status": "active",
+  "id": "0xe4a8a4ade118198c519fd4a62dd93eb4dadaec18"
+}
